@@ -138,7 +138,7 @@ favicon:
 # Set the color scheme.
 # Available color schemes are 'dark', 'light', 'classic' and 'white'.
 # Alternatively, add your own custom color scheme to source/css/_colors.
-colorscheme: white
+colorscheme: light
 
 # Maximal width of the page in rem units.
 page_width: 48
@@ -206,8 +206,8 @@ umami_analytics:
 # logo and/or favicons of you website.
 # To generate hash: `$ echo -n "name@email.com" | md5`.
 gravatar:
-  email: name@email.com
-  hash: d41d8cd98f00b204e9800998ecf8427e
+  email: qkxyb@outlook.com
+  hash: aa
 
 # loads libraries and styles from CDN instead or relying on local files
 cdn:
